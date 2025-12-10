@@ -4,8 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech CSE Student at Lovely Professional University (CGPA: 7.5)
-- 🔭 Currently Building: **Remote Interview Platform & Real-time Chat App**
+- 🎓 B.Tech CSE Student at Lovely Professional University
 - 🌱 Learning & Exploring: **Cloud Deployment, DevOps, System Design**
 - 👯 Looking to collaborate on **Open Source & MERN Projects**
 - 💬 Ask me about **React.js, Node.js, MongoDB, Express.js**
